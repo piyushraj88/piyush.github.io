@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Piyush - Portfolio</title>
-  <style>
-    body { font-family: Arial, sans-serif; margin: 40px; background: #f5f5f5; color: #333; }
-    h1, h2 { color: #004aad; }
-    .section { margin-bottom: 40px; }
-    a { color: #004aad; text-decoration: none; }
-  </style>
-</head>
-<body>
-
-  <h1>Piyush</h1>
+ <h1>Piyush</h1>
   <p><strong>Cloud & Data Engineer | AWS | Databricks | Snowflake | Iceberg | Kafka | Airflow</strong></p>
   <p>Email: piyushraj88@gmail.com | <a href="www.linkedin.com/in/piyush-raj88" target="_blank">LinkedIn</a> | <a href="https://github.com/piyush-cloud" target="_blank">GitHub</a></p>
 
