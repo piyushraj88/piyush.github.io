@@ -20,4 +20,4 @@
   <div class="section">
     <h2>Contact</h2>
     <p>Let's connect! Reach out via <a href="mailto:piyushraj88@gmail.com">email</a> or message me on LinkedIn.</p>
-  </di
+  </div>
