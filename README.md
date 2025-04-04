@@ -1,6 +1,6 @@
  <h1>Piyush</h1>
   <p><strong>Cloud & Data Engineer | AWS | Databricks | Snowflake | Iceberg | Kafka | Airflow</strong></p>
-  <p>Email: piyushraj88@gmail.com | <a href="www.linkedin.com/in/piyush-raj88" target="_blank">LinkedIn</a> | <a href="https://github.com/piyush-cloud" target="_blank">GitHub</a></p>
+  <p>Email: piyushraj88@gmail.com | <a href="https://www.linkedin.com/in/piyush-raj88/" target="_blank">LinkedIn</a> | <a href="https://github.com/piyush-cloud" target="_blank">GitHub</a></p>
 
   <div class="section">
     <h2>About Me</h2>
